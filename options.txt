@@ -1,0 +1,2 @@
+Keep Order: True
+Flashcard Mode: 1
